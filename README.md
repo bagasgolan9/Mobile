@@ -1,16 +1,8 @@
-# flutter_application_1
+# Mobile app Dart
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+# debug_mode
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this app using CMake for running the debug mode, you need to install CMake to launch debug mode,
+launch from browser or running on a real device alternatively 
